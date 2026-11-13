@@ -1,0 +1,377 @@
+fileFormatVersion: 2
+guid: 9266e8d7b5a214d4398a3615a40e1b54
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -295500122610395583
+    second: ASET 2D GIM - VEGETASI_0
+  - first:
+      213: 3525239914231932686
+    second: ASET 2D GIM - VEGETASI_1
+  - first:
+      213: -1069565143350021214
+    second: ASET 2D GIM - VEGETASI_2
+  - first:
+      213: 905595368356434017
+    second: ASET 2D GIM - VEGETASI_3
+  - first:
+      213: -5182432517579873293
+    second: ASET 2D GIM - VEGETASI_4
+  - first:
+      213: -2629339638948949468
+    second: ASET 2D GIM - VEGETASI_5
+  - first:
+      213: 5207512601661963713
+    second: ASET 2D GIM - VEGETASI_6
+  - first:
+      213: 827540363940499369
+    second: ASET 2D GIM - VEGETASI_7
+  - first:
+      213: 6552428855746755009
+    second: ASET 2D GIM - VEGETASI_8
+  - first:
+      213: 8947912877905714722
+    second: ASET 2D GIM - VEGETASI_9
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ASET 2D GIM - VEGETASI_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 555
+        width: 216
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14619b0443c26ebf0800000000000000
+      internalID: -295500122610395583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASET 2D GIM - VEGETASI_1
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 641
+        width: 38
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e07a2d3460b2ce030800000000000000
+      internalID: 3525239914231932686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASET 2D GIM - VEGETASI_2
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 673
+        width: 50
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a37b7e3b242821f0800000000000000
+      internalID: -1069565143350021214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASET 2D GIM - VEGETASI_3
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 630
+        width: 246
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 160df118032519c00800000000000000
+      internalID: 905595368356434017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASET 2D GIM - VEGETASI_4
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 667
+        width: 200
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f3e73d351d4418b0800000000000000
+      internalID: -5182432517579873293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASET 2D GIM - VEGETASI_5
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 648
+        width: 246
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 422189a7785b28bd0800000000000000
+      internalID: -2629339638948949468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASET 2D GIM - VEGETASI_6
+      rect:
+        serializedVersion: 2
+        x: 1677
+        y: 620
+        width: 186
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd7e61ee1dc44840800000000000000
+      internalID: 5207512601661963713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASET 2D GIM - VEGETASI_7
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 435
+        width: 300
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af88f593930c7b00800000000000000
+      internalID: 827540363940499369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASET 2D GIM - VEGETASI_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 42
+        width: 257
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c9fdcaf357eeea50800000000000000
+      internalID: 6552428855746755009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ASET 2D GIM - VEGETASI_9
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 0
+        width: 480
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22e96b8ba5f5d2c70800000000000000
+      internalID: 8947912877905714722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ASET 2D GIM - VEGETASI_0: -295500122610395583
+      ASET 2D GIM - VEGETASI_1: 3525239914231932686
+      ASET 2D GIM - VEGETASI_2: -1069565143350021214
+      ASET 2D GIM - VEGETASI_3: 905595368356434017
+      ASET 2D GIM - VEGETASI_4: -5182432517579873293
+      ASET 2D GIM - VEGETASI_5: -2629339638948949468
+      ASET 2D GIM - VEGETASI_6: 5207512601661963713
+      ASET 2D GIM - VEGETASI_7: 827540363940499369
+      ASET 2D GIM - VEGETASI_8: 6552428855746755009
+      ASET 2D GIM - VEGETASI_9: 8947912877905714722
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
